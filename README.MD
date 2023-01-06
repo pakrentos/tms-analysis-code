@@ -1,4 +1,8 @@
-This git repository contains code written in Python and R that is used for various purposes related to statistical analysis of EEG data, such as extracting MBRT (a measure of brain activity) and analyzing the properties of reconstructed functional networks. The code in the Python folder is used to perform these tasks and potentially others related to statistical analysis of EEG data.
+This git repository contains scripts written in FieldTrip (MATLAB) and Python that are used for various purposes related to sensor-level and statistical analysis of EEG data, such as extracting motor imagery brain response time (MIBRT, a measure of brain activity), estimation and analysis of source-level power distributions, reconstruction of functional connectivities in source space, and analyzing the properties of reconstructed functional connectivities.
+
+The scripts in the FieldTrip folder:
+
+The scripts in the Python folder:
 
 #### additional_group_preproc.ipynb
 Used for data preprocessing
