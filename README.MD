@@ -5,6 +5,9 @@ The scripts in the FieldTrip folder:
 #### EEG_eLoreta.m and EEG_eLoreta_BgrsCalc.m
 Used for the estimation of source-level power distributions using the eLORETA method.
 
+#### Stat_source_power_distributions.m
+Used for the statistical analysis of source-level power distributions in the between-subjects design.
+
 The scripts in the Python folder:
 
 #### additional_group_preproc.ipynb
