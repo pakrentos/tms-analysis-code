@@ -2,6 +2,9 @@ This git repository contains scripts written in FieldTrip (MATLAB) and Python th
 
 The scripts in the FieldTrip folder:
 
+#### EEG_eLoreta.m and EEG_eLoreta_BgrsCalc.m
+Used for the estimation of source-level power distributions using the eLORETA method.
+
 The scripts in the Python folder:
 
 #### additional_group_preproc.ipynb
