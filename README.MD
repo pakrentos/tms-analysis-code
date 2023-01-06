@@ -8,6 +8,15 @@ Used for the estimation of source-level power distributions using the eLORETA me
 #### Stat_source_power_distributions.m
 Used for the statistical analysis of source-level power distributions in the between-subjects design.
 
+#### Source power in cluster.m
+Used for the calculation of source power in the selected cluster revealed in the statistical test.
+
+#### Source power in zone.m
+Used for the calculation of source power in the selected zone.
+
+#### PLV_connectivity.m
+Used for the calculation of PLV connectivity measure between the selected ROIs in the source space.
+
 The scripts in the Python folder:
 
 #### additional_group_preproc.ipynb
